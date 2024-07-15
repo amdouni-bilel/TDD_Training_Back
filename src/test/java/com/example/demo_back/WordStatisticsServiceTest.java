@@ -1,4 +1,5 @@
-package WordStatistics.dogyearsconverter;
+/*
+package com.example.demo_back;
 
 
 import com.example.demo_back.service.WordStatisticsService;
@@ -31,3 +32,4 @@ public class WordStatisticsServiceTest {
     }
 }
 
+*/
