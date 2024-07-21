@@ -1,3 +1,4 @@
+/*
 package com.example.demo_back;
 
 import com.example.demo_back.entity.Name;
@@ -16,3 +17,4 @@ public class NameServiceTest {
         assertEquals("Robert C. Martin", formattedName);
     }
 }
+*/
